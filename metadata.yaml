@@ -1,0 +1,29 @@
+_repo: The-Culture-of-Vegetables-and-Flowers-From-Seeds-and-Roots--13-16th-Edition_16232
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sutton & Sons Ltd.
+    aliases:
+    - Suttons Seeds Ltd.
+    - Sutton and Sons Ltd.
+    gutenberg_agent_id: '6550'
+    url: http://www.gutenberg.org/2009/agents/6550
+description: ''
+gutenberg_bookshelf: Horticulture
+gutenberg_issued: '2005-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16232'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gardening'
+- !lcsh 'Plant propagation'
+- !lcc 'SB'
+title: "The Culture of Vegetables and Flowers From Seeds and Roots\r\n16th Edition"
+url: http://www.gutenberg.org/ebooks/16232
